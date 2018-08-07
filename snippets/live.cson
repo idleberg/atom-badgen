@@ -99,19 +99,19 @@
     body: '![Homebrew: version](http://${1:flat.}badgen.net/homebrew/v/${2:package}${3:?params})$0'
     prefix: 'badgen-homebrew-version'
   'Mozilla Add-on: rating':
-    body: '![Mozilla Add-on: rating](http://${1:flat.}badgen.net/amo/rating/${2:addon}${$3:?params})$0'
+    body: '![Mozilla Add-on: rating](http://${1:flat.}badgen.net/amo/rating/${2:addon}${3:?params})$0'
     prefix: 'badgen-amo-rating'
   'Mozilla Add-on: reviews':
-    body: '![Mozilla Add-on: reviews](http://${1:flat.}badgen.net/amo/reviews/${2:addon}${$3:?params})$0'
+    body: '![Mozilla Add-on: reviews](http://${1:flat.}badgen.net/amo/reviews/${2:addon}${3:?params})$0'
     prefix: 'badgen-amo-reviews'
   'Mozilla Add-on: stars':
-    body: '![Mozilla Add-on: stars](http://${1:flat.}badgen.net/amo/stars/${2:addon}${$3:?params})$0'
+    body: '![Mozilla Add-on: stars](http://${1:flat.}badgen.net/amo/stars/${2:addon}${3:?params})$0'
     prefix: 'badgen-amo-stars'
   'Mozilla Add-on: users':
-    body: '![Mozilla Add-on: users](http://${1:flat.}badgen.net/amo/users/${2:addon}${$3:?params})$0'
+    body: '![Mozilla Add-on: users](http://${1:flat.}badgen.net/amo/users/${2:addon}${3:?params})$0'
     prefix: 'badgen-amo-users'
   'Mozilla Add-on: version':
-    body: '![Mozilla Add-on: version](http://${1:flat.}badgen.net/amo/v/${2:addon}${$3:?params})$0'
+    body: '![Mozilla Add-on: version](http://${1:flat.}badgen.net/amo/v/${2:addon}${3:?params})$0'
     prefix: 'badgen-amo-version'
   'NuGet: version (latest)':
     body: '![NuGet: version (latest)](http://${1:flat.}badgen.net/nuget/v/${2:package}/latest${3:?params})$0'
