@@ -39,6 +39,10 @@ Clone the repository as `badgen`:
 $ git clone https://github.com/idleberg/atom-badgen badgen
 ```
 
+## Related
+
+- [Badgen for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=idleberg.badgen)
+
 ## License
 
 This work is licensed under the [MIT License](LICENSE)
