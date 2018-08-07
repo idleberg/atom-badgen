@@ -2,7 +2,7 @@
 
 [![apm](https://flat.badgen.net/apm/license/badgen)](https://atom.io/packages/badgen)
 [![apm](https://flat.badgen.net/apm/v/badgen)](https://atom.io/packages/badgen)
-[![apm](https://flat.badgen.net/apm/dm/badgen)](https://atom.io/packages/badgen)
+[![apm](https://flat.badgen.net/apm/dl/badgen)](https://atom.io/packages/badgen)
 [![CircleCI](https://flat.badgen.net/circleci/github/idleberg/atom-badgen)](https://circleci.com/gh/idleberg/atom-badgen)
 
 # Description
