@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "description": "Snippets to quickly insert Badgen badges into Markdown documents",
   "scripts": {
-    "test": "gulp lint"
+    "lint": "gulp lint",
+    "test": "npm run lint"
   },
   "keywords": [
     "badgen",
