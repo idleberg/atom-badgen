@@ -39,10 +39,6 @@ Clone the repository as `badgen`:
 $ git clone https://github.com/idleberg/atom-badgen badgen
 ```
 
-## Usage
-
-*No description*
-
 ## License
 
 This work is licensed under the [MIT License](LICENSE)
