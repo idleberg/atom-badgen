@@ -1,6 +1,6 @@
 {
   "name": "badgen",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Snippets to quickly insert Badgen badges into Markdown documents",
   "scripts": {
     "lint": "gulp lint",
