@@ -9,6 +9,10 @@
 
 Snippets to quickly insert [Badgen](https://badgen.net/) badges into Markdown documents
 
+![Screenshot](https://raw.githubusercontent.com/idleberg/vscode-badgen/master/screenshot.gif)
+
+*Screenshot nicked from the Visual Studio Code extension, but you get the idea!*
+
 ## Installation
 
 ### apm
@@ -38,6 +42,10 @@ Clone the repository as `badgen`:
 ```bash
 $ git clone https://github.com/idleberg/atom-badgen badgen
 ```
+
+## Usage
+
+Snippets follow the naming scheme of Badgen URL, e.g. `badgen-npm` is used for npm badges and `badgen-amo` for Mozilla Add-ons. Please refer to the [snippet guide](https://github.com/idleberg/atom-badgen/blob/master/snippets.md) for a complete list.
 
 ## Related
 
